@@ -1,0 +1,32 @@
+# GAA outputs and temporary files
+*gaa_outputs/
+*gaa_demo_outputs/
+*test_gaa_outputs/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model checkpoints  
+*.pth
+*.pkl
+
+# Output files
+*.csv
+*.png
+*.jpg
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
